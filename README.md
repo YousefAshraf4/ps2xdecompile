@@ -1,4 +1,4 @@
-# psretrox - Playstation 2 Decompilation & Recompilation Tool
+# ps2xdecompile - Playstation 2 Decompilation & Recompilation Tool
 
 ## [Project Status]
 **Due to recent attention and viral spread, I want to clarify that this project has been paused for several months. It was started as a personal and experimental exploration into low-level C++, and it is not currently under active development.
