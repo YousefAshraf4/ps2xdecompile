@@ -31,7 +31,7 @@ ps2xdecompile is a C++ application designed to reverse engineer PlayStation 2 ga
 - **Retrox Engine**: Tool to port PS2 recompiled .C files to PC.
 
 ## **Contributing**
-We welcome contributions to enhance PSRetrox. Here's how you can contribute:
+We welcome contributions to enhance ps2xdecompile. Here's how you can contribute:
 
 ### Code Contribution
 
