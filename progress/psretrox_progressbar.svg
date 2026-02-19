@@ -13,8 +13,8 @@
         <path fill="url(#b)" d="M0 0h224v20H0z"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="14">
-        <text x="74.0" y="15" fill="#010101" fill-opacity=".3">psretrox (v1.0)</text>
-        <text x="75.0" y="14">psretrox (v1.0)</text>
+        <text x="74.0" y="15" fill="#010101" fill-opacity=".3">ps2xdecompile (v1.0)</text>
+        <text x="75.0" y="14">ps2xdecompile (v1.0)</text>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
         <text x="188.0" y="15" fill="#010101" fill-opacity=".3">8%</text>
